@@ -8,4 +8,4 @@ The old model framework has been taken down, so if you want to get the old versi
 
 New model frames will be uploaded soon.
 
-![Uploading fig19.png…]()
+![Uploading fig19.png…](photo/fig19.png)
